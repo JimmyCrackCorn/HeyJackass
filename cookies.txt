@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	94=EOMO1WlK-z5h3qokngdqRC6eKvI3-YBcg-BLIAKbQi-gY_St6gpjNyOg1gO5grP_7PpkAb5_rrXoVrF2rqDTSYX3eGaCSoI4hMRU9P1VIwdEWu5KfjDo1eTnsf4Dvdnp
+youngcons.wpengine.netdna-cdn.com	TRUE	/	FALSE	1999999999	X-Mapping-fjhppofk	3530120F64A87AD10E0E6558882134F1
+.youngcons.com	TRUE	/	FALSE	1999999999	__cfduid	dbc00036fba64a7e5e838010eafc0acfb1483663633
+

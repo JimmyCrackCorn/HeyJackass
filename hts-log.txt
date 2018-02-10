@@ -1,0 +1,509 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Oct 2017 02:08:44 at http://heyjackass.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://heyjackass.com/ -O1 "I:\HeyJackass" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:08:48	Error: 	Exit requested by shell or user
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_shot_clock_101117-320x249.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_shot_clock_101117.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_city_map_100917-320x482.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_city_map_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_chalkie_101117-320x300.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_chalkie_101117.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_murder_trend_101117.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_police_shootings_091017-320x249.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_police_shootings_091017.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_cause_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/race-2017_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_gender_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/09/2017_age_100317-320x201.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/09/2017_age_100317.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/02/2017_clearance_rate_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/07/2017_toe_tag_1009217.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_ass_shots_100917-320x201.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_ass_shots_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_selfie_100917-320x147.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_selfie_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_death_investigations_100217-320x193.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_death_investigations_100217.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_junk_shots_100917-320x133.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_junk_shots_100917.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/02/2017_wtf_chart2-320x201.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/02/2017_wtf_chart2.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/02/paypal_tip_jar.png
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/themes/shaken-grid-premium/js/plugins.js?v=20120423234912
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/themes/shaken-grid-premium/js/script.js?v=20120423234909
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-includes/js/wp-embed.min.js?ver=7a9608a9b77071cbd6ad9b137f87e0c0
+02:08:48	Error: 	"Service Temporarily Unavailable" (503) at link heyjackass.com/xmlrpc.php (from heyjackass.com/)
+02:08:48	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/themes/shaken-grid-premium/js/fancybox/fancy_title_over.png
+02:08:48	Error: 	"Service Unavailable" (503) at link heyjackass.com/feed/ (from heyjackass.com/)
+02:08:49	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/tablepress-combined.min.css?ver=36
+02:08:49	Warning: 	File not added due to mirror cancel: https://www.google-analytics.com/analytics.js
+02:08:49	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-includes/js/wp-embed.min.js?ver=0be24611ed8edcd3d8efafbe3ad01de3
+02:08:49	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/01/new-years-drunk.jpg
+02:08:49	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/10/rant.gif
+02:08:49	Warning: 	File not added due to mirror cancel: heyjackass.com/category/2017-commentary/
+02:08:49	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/category/2017-commentary/ (from heyjackass.com/)
+02:08:49	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2014/11/Nothing-To-See-Here-300x116.png
+02:08:49	Warning: 	File not added due to mirror cancel: heyjackass.com/category/2017-stats/
+02:08:49	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/category/2017-stats/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fglossary%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fglossary%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=20
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=20 to http://heyjackass.com/totals/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=9557
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=9557 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=20070
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=20070 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fshootings%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fshootings%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=174
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=174 to http://heyjackass.com/shootings/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/enlightening-commentary/self-defense-again-x2-2/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/enlightening-commentary/self-defense-again-x2-2/ (from heyjackass.com/)
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=1
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=1 to http://heyjackass.com/enlightening-commentary/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-chicago-shot-clock/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-chicago-shot-clock/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_shot_clock_101117.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_shot_clock_101117.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19772
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19772 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-deadliest-hoods/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-deadliest-hoods/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_city_map_100917-320x482.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_city_map_100917-320x482.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_city_map_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_city_map_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19777
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19777 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-shot-placement/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-shot-placement/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_chalkie_101117-320x300.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_chalkie_101117-320x300.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_chalkie_101117.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_chalkie_101117.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19775
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19775 (from heyjackass.com/)
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=935
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=935 to http://heyjackass.com/ads/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-homicide-trend/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-homicide-trend/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_murder_trend_101117.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_murder_trend_101117.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19782
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19782 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-police-involved-shootings/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-police-involved-shootings/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_police_shootings_091017-320x249.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_police_shootings_091017-320x249.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_police_shootings_091017.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_police_shootings_091017.png (from heyjackass.com/)
+02:08:50	Warning: 	HTML file (749 bytes) retransferred due to lack of cache: heyjackass.com/?p=19781
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19781
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19781 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-cause-of-death/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-cause-of-death/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_cause_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_cause_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19786
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19786 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-race-of-victimassailant/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-race-of-victimassailant/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/race-2017_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/race-2017_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19789
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19789 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-gender-of-victim/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-gender-of-victim/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_gender_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_gender_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19792
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19792 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-age-of-victim/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-age-of-victim/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/09/2017_age_100317-320x201.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/09/2017_age_100317-320x201.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/09/2017_age_100317.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/09/2017_age_100317.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=22609
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=22609 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-homicide-clearance-rate/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-homicide-clearance-rate/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/02/2017_clearance_rate_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/02/2017_clearance_rate_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=20115
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=20115 (from heyjackass.com/)
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=5515
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=5515 to http://heyjackass.com/gallery/
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=9365
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=9365 to http://heyjackass.com/mobile-ad/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-multi-victim-shootings/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-multi-victim-shootings/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19795
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19795 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-cost-of-stupidity/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-cost-of-stupidity/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/07/2017_toe_tag_1009217.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/07/2017_toe_tag_1009217.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=21983
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=21983 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-shot-in-the-ass-o-meter/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-shot-in-the-ass-o-meter/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_ass_shots_100917-320x201.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_ass_shots_100917-320x201.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_ass_shots_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_ass_shots_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19800
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19800 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-selfie-o-meter/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-selfie-o-meter/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_selfie_100917-320x147.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_selfie_100917-320x147.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_selfie_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_selfie_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19798
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19798 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-death-investigations/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-death-investigations/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_death_investigations_100217-320x193.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_death_investigations_100217-320x193.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_death_investigations_100217.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_death_investigations_100217.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19806
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19806 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/2017-shot-in-the-junk-o-meter/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/2017-shot-in-the-junk-o-meter/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_junk_shots_100917-320x133.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_junk_shots_100917-320x133.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2017/01/2017_junk_shots_100917.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2017/01/2017_junk_shots_100917.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?p=19803
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?p=19803 (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fyearly-murder-trend-1957-2013%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fyearly-murder-trend-1957-2013%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=7212
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=7212 to http://heyjackass.com/yearly-murder-trend-1957-2013/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fpolice-scanner-frequencies%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fpolice-scanner-frequencies%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=2230
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=2230 to http://heyjackass.com/police-scanner-frequencies/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fblogroll%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fblogroll%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=284
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=284 to http://heyjackass.com/blogroll/
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=9336
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=9336 to http://heyjackass.com/ad-post3/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/tip-jar/
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/tip-jar/ (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/02/2017_wtf_chart2-320x201.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2016/02/2017_wtf_chart2-320x201.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/02/2017_wtf_chart2.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2016/02/2017_wtf_chart2.png (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/02/paypal_tip_jar.png
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2016/02/paypal_tip_jar.png (from heyjackass.com/)
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14857
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14857 to http://heyjackass.com/help-chicago-scanner/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fsource-data%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fsource-data%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=252
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=252 to http://heyjackass.com/source-data/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/?ga_action=googleanalytics_get_script
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/?ga_action=googleanalytics_get_script (from heyjackass.com/)
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-includes/js/wp-embed.min.js?ver=7a9608a9b77071cbd6ad9b137f87e0c0
+02:08:50	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-includes/js/wp-embed.min.js?ver=7a9608a9b77071cbd6ad9b137f87e0c0 (from heyjackass.com/)
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/wp-content/themes/shaken-grid-premium/js/fancybox/fancy_title_over.png
+02:08:50	Warning: 	File has moved from heyjackass.com/wp-content/themes/shaken-grid-premium/js/fancybox/fancy_title_over.png to http://heyjackass.com/
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=2153
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=2153 to http://heyjackass.com/last-month-totals/
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14841
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14841 to http://heyjackass.com/2016-year-to-date-totals/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fyear-in-review-4%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fyear-in-review-4%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fshitshow-of-the-year-2%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fshitshow-of-the-year-2%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fjanuarys-57%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fjanuarys-57%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Ffebruary-wrap-up-2%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Ffebruary-wrap-up-2%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fchopped%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fchopped%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fmay-wrap-up-2%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fmay-wrap-up-2%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fjuly-wrap-up%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fjuly-wrap-up%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Faugust-wrap-up%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Faugust-wrap-up%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fseptember-wrap-up%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fseptember-wrap-up%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Foctober-surprise%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Foctober-surprise%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fnovember-wrap-up%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fnovember-wrap-up%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fchristmas-stupidity%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fchristmas-stupidity%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fstay-fetal-update%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fstay-fetal-update%2F&format=xml
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-monthly-trend%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-monthly-trend%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=19671
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=19671 to http://heyjackass.com/2016-monthly-trend/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-chicago-shot-clock%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-chicago-shot-clock%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14374
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14374 to http://heyjackass.com/2016-chicago-shot-clock/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-deadliest-hoods%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-deadliest-hoods%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14376
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14376 to http://heyjackass.com/2016-deadliest-hoods/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-shot-placement%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-shot-placement%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14372
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14372 to http://heyjackass.com/2016-shot-placement/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-homicide-trend%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-homicide-trend%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14392
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14392 to http://heyjackass.com/2016-homicide-trend/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-police-involved-shootings%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-police-involved-shootings%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14600
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14600 to http://heyjackass.com/2016-police-involved-shootings/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-cause-of-death%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-cause-of-death%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14378
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14378 to http://heyjackass.com/2016-cause-of-death/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-race-of-victim-assailant%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-race-of-victim-assailant%2F&format=xml
+02:08:50	Warning: 	Moved Permanently for heyjackass.com/?p=14380
+02:08:50	Warning: 	File has moved from heyjackass.com/?p=14380 to http://heyjackass.com/2016-race-of-victim-assailant/
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-gender-of-victim%2F
+02:08:50	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-gender-of-victim%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14382
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14382 to http://heyjackass.com/2016-gender-of-victim/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-total-shot%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-total-shot%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14630
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14630 to http://heyjackass.com/2016-total-shot/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-age-of-victim%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-age-of-victim%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=16838
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=16838 to http://heyjackass.com/2016-age-of-victim/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fshot-since-actions-o-meter%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fshot-since-actions-o-meter%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14444
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14444 to http://heyjackass.com/shot-since-actions-o-meter/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-homicide-clearance-rate%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-homicide-clearance-rate%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14656
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14656 to http://heyjackass.com/2016-homicide-clearance-rate/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-multi-victim-shootings%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-multi-victim-shootings%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14462
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14462 to http://heyjackass.com/2016-multi-victim-shootings/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-shot-in-the-ass-o-meter%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-shot-in-the-ass-o-meter%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14384
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14384 to http://heyjackass.com/2016-shot-in-the-ass-o-meter/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-selfie-o-meter%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-selfie-o-meter%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14388
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14388 to http://heyjackass.com/2016-selfie-o-meter/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-death-investigations%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-death-investigations%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14390
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14390 to http://heyjackass.com/2016-death-investigations/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-shot-in-the-junk-o-meter%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-shot-in-the-junk-o-meter%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=14386
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=14386 to http://heyjackass.com/2016-shot-in-the-junk-o-meter/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-cost-of-stupidity%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-cost-of-stupidity%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=16358
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=16358 to http://heyjackass.com/2016-cost-of-stupidity/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-murder-matrix%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2F2016-murder-matrix%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=16361
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=16361 to http://heyjackass.com/2016-murder-matrix/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fhelp-chicago-scanner%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fhelp-chicago-scanner%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19692
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19692 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fnew-years-stupidity-2%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fnew-years-stupidity-2%2F&format=xml
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/01/new-years-drunk.jpg
+02:08:51	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2016/01/new-years-drunk.jpg (from heyjackass.com/enlightening-commentary/)
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fnew-years-stupidity%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fnew-years-stupidity%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19589
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19589 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-28%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-28%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19497
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19497 to http://heyjackass.com/
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=9626
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=9626 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fparty-on-2%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fparty-on-2%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19465
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19465 to http://heyjackass.com/
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=9488
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=9488 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-67%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-67%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19404
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19404 to http://heyjackass.com/
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=13436
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=13436 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fwinter-blast%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fwinter-blast%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19375
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19375 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-66%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-66%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19341
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19341 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fparts-is-parts%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fparts-is-parts%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19310
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19310 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-65%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-65%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19262
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19262 to http://heyjackass.com/
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19250
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19250 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fself-defense-again-4%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fself-defense-again-4%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19229
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19229 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthanksgiving-stupidity-3%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthanksgiving-stupidity-3%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19169
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19169 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fturkey-downtime%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fturkey-downtime%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19151
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19151 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-64%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-64%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19107
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19107 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fsanctuary%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fsanctuary%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19077
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19077 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-63%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-63%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19034
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19034 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Foops%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Foops%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=19012
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=19012 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-62%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-62%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18952
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18952 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fcubs-win-cubs-win%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fcubs-win-cubs-win%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18931
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18931 to http://heyjackass.com/
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18922
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18922 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-61%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-61%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18848
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18848 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fbitch-and-moan%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fbitch-and-moan%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18817
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18817 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-60%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-60%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18753
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18753 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Frant%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Frant%2F&format=xml
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-content/uploads/2016/10/rant.gif
+02:08:51	Error: 	"mirror stopped by user" (-1) at link heyjackass.com/wp-content/uploads/2016/10/rant.gif (from heyjackass.com/enlightening-commentary/)
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18727
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18727 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-59%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-59%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18665
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18665 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fcold-cocked%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fcold-cocked%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18642
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18642 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-58%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-58%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18578
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18578 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fself-defense-again-3%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fself-defense-again-3%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18557
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18557 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-57%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-57%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18503
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18503 to http://heyjackass.com/
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18488
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18488 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fcaring%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fcaring%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18465
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18465 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-56%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-56%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18401
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18401 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fyou-serious-clark%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fyou-serious-clark%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18370
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18370 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-55%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-55%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18321
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18321 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fwrigleyville-stupidity%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fwrigleyville-stupidity%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18302
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18302 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-54%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-54%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18245
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18245 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fsummer-lovin-2%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fsummer-lovin-2%2F&format=xml
+02:08:51	Warning: 	Moved Permanently for heyjackass.com/?p=18221
+02:08:51	Warning: 	File has moved from heyjackass.com/?p=18221 to http://heyjackass.com/
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fsummers-final-scene-2%2F
+02:08:51	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fsummers-final-scene-2%2F&format=xml
+02:08:52	Warning: 	Moved Permanently for heyjackass.com/?p=18157
+02:08:52	Warning: 	File has moved from heyjackass.com/?p=18157 to http://heyjackass.com/
+02:08:52	Warning: 	Moved Permanently for heyjackass.com/?p=18123
+02:08:52	Warning: 	File has moved from heyjackass.com/?p=18123 to http://heyjackass.com/
+02:08:52	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-53%2F
+02:08:52	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-weekends-stupidity-53%2F&format=xml
+02:08:52	Warning: 	Moved Permanently for heyjackass.com/?p=18019
+02:08:52	Warning: 	File has moved from heyjackass.com/?p=18019 to http://heyjackass.com/
+02:08:52	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-language%2F
+02:08:52	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fthe-language%2F&format=xml
+02:08:52	Warning: 	Moved Permanently for heyjackass.com/?p=17981
+02:08:52	Warning: 	File has moved from heyjackass.com/?p=17981 to http://heyjackass.com/
+02:08:52	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fair-show-weekend%2F
+02:08:52	Warning: 	File not added due to mirror cancel: heyjackass.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fheyjackass.com%2Fenlightening-commentary%2Fair-show-weekend%2F&format=xml
+02:08:52	Error: 	Exit requested by shell or user
+02:08:52	Error: 	"" (-1) at link heyjackass.com/?p=17925 (from heyjackass.com/enlightening-commentary/)
+02:08:52	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 1743 links scanned, 240 files written (7200898 bytes overall), 5 files updated [100820 bytes received at 7755 bytes/sec], 262303 bytes transferred using HTTP compression in 6 files, ratio 24%
+(74 errors, 420 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
